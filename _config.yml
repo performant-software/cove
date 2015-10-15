@@ -2,8 +2,8 @@
 title: Cove Collective
 email: felluga@purdue.edu 
 description: The COVE Collective
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://covecollective.org" # the base hostname & protocol for your site
+baseurl: /cove/ # the subpath of your site, e.g. /blog/
+url: "http://performant-software.github.io/" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 
