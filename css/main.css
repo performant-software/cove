@@ -1,0 +1,27 @@
+.navsa-bar {
+  background: black;
+  color: white;
+  height: 50px;
+}
+
+.nav {
+
+}
+
+.masthead {
+}
+
+.content {  
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: gray;
+}
+
+.gallery {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
