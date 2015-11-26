@@ -9,6 +9,7 @@ p, li {
   font-size: 12pt;
 }
 
+
 .navsa-bar {
   background: black;
   color: white;
@@ -38,12 +39,28 @@ p, li {
   margin-right: 20px;  
 }
 
-.graphic {
+.header {
   border: 1px solid gray;
   float: left;
   margin-top: 25px;
   margin-left: 20px;
   margin-right: 20px;
+  background-image: url("/images/header-graphic.png");
+  background-repeat: no-repeat;
+  width: 743px;
+  height: 340px;
+}
+
+.overlay {
+  padding: 5px;
+  margin-top: 167px;
+  color: white;
+  background-color:rgba(66, 58, 51, 0.8)
+}
+
+.overlay h2, .overlay p {
+  font-size: 10pt;
+  color: white;
 }
 
 .content {  
