@@ -4,7 +4,7 @@ h2 {
   color: #1b6c7a;
 }
 
-p, li {
+p, li, h4 {
   font-family: 'Open Sans', sans-serif;
   font-size: 12pt;
 }
@@ -77,6 +77,11 @@ p, li {
   background: #e0e0e0;
 }
 
+.post {
+  margin: 40px 20px 40px 20px;
+}
+
+
 .content-backdrop {
   background-image: url('/images/ocean.jpg');  
   background-repeat: no-repeat;
@@ -92,7 +97,4 @@ p, li {
 
 body {
   background: white;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 0px 170px;
 }
