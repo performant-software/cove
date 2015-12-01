@@ -85,6 +85,7 @@ p, li, h4 {
 .content-backdrop {
   background-image: url('/images/ocean.jpg');  
   background-repeat: no-repeat;
+  background-size: cover;
   background-color: #1b6c7a; 
 }
 
