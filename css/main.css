@@ -77,6 +77,12 @@ p, li {
   background: #e0e0e0;
 }
 
+.content-backdrop {
+  background-image: url('/images/ocean.jpg');  
+  background-repeat: no-repeat;
+  background-color: #1b6c7a; 
+}
+
 .gallery {
   margin-left: 20px;
   margin-right: 20px;
@@ -89,5 +95,4 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 0px 170px;
-/*  background-image: url('/images/ocean.jpg');*/
 }
