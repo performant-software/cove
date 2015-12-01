@@ -22,14 +22,20 @@ p, li {
   margin-right: 50px;
 }
 
-.nav {
+.nav-bar {
+ margin-left: 50px;
+ margin-right: 50px; 
+ height: 42px;
 }
 
+.nav {
+  float: right;
+}
+  
 .masthead {
 }
 
 .logo {
-  margin-bottom: 20px;
   margin-top: 35px;
   margin-left: 50px;
 }
@@ -83,5 +89,5 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 0px 170px;
-  background-image: url('/images/ocean.jpg');
+/*  background-image: url('/images/ocean.jpg');*/
 }
