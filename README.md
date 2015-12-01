@@ -1,1 +1,3 @@
-# cove
+# Cove
+
+COVE is The Central Online Victorian Educator, a scholar-driven site that publishes peer-reviewed Victorian material.  If you are interested in getting involved or in supporting the project financially, please contact general editor, Dino Franco Felluga [add email link to felluga@purdue.edu].  Development has already been supported by the North American Victorian Studies Association, Purdue University's College of Liberal Arts and Purdue University Libraries, the Sidney Stern Memorial Trust, the Curb Center for Art, Enterprise and Public Policy, the English Department of Rutgers University and Romantic Circles at rc.umd.edu (with which site we are working closely and sharing software developments).
