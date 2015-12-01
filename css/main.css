@@ -42,24 +42,24 @@ p, li {
 
 .about {
   margin-top: 25px;
-  margin-right: 20px;  
+  margin-right: 20px;
 }
 
 .header {
+  padding: 0px;
   border: 1px solid gray;
-  float: left;
   margin-top: 25px;
   margin-left: 20px;
   margin-right: 20px;
   background-image: url("/images/header-graphic.png");
   background-repeat: no-repeat;
-  width: 743px;
+  max-width: 743px;
   height: 340px;
 }
 
 .overlay {
-  padding: 5px;
-  margin-top: 167px;
+  padding: 1px 10px 5px 10px;
+  margin-top: 170px;
   color: white;
   background-color:rgba(66, 58, 51, 0.8)
 }
