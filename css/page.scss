@@ -1,0 +1,59 @@
+---
+---
+
+.nav-tabs > li > a  {
+  border-radius: 0px;
+  font-family: 'EB Garamond', serif;
+  font-size: 12pt;
+  color: white;
+  background: #7a7066;
+}
+
+.navsa-bar {
+  background: black;
+  color: white;
+  height: 50px;
+}
+
+.navsa-logo {
+  float: right;
+  margin-top: 5px;
+  margin-right: 50px;
+}
+
+.nav-bar {
+ margin-left: 50px;
+ margin-right: 50px; 
+ height: 42px;
+}
+
+.nav {
+  float: right;
+}
+
+.black-ribbon {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  height: 7px;
+  background-image: url("/images/black-ribbon.png");
+}
+
+.pattern-line {
+  width: 100%;
+  height: 14px;
+  background-image: url("/images/pattern-line.jpg");
+}
+
+.logo {
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.content-backdrop {
+  margin-top: 2px;
+  background-image: url('/images/ocean.jpg');  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #1b6c7a; 
+}
