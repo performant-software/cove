@@ -9,6 +9,15 @@
   background: #7a7066;
 }
 
+.nav-tabs > li > a:hover {
+  background: #279eb2;
+}
+
+.nav-tabs > li.active > a {
+  color: white;
+  background: #279eb2;
+}
+
 .navsa-bar {
   background: black;
   color: white;

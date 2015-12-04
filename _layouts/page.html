@@ -11,12 +11,12 @@ layout: default
 </div>
 <div class="nav-bar">
   <ul class="nav nav-tabs">
-    <li role="presentation"><a href="/">HOME</a></li>
-    <li role="presentation"><a href="/editions">EDITIONS</a></li>
-    <li role="presentation"><a href="/pedagogy">PEDAGOGY</a></li>
-    <li role="presentation"><a href="/audio">AUDIO</a></li>
-    <li role="presentation"><a href="/gallery">GALLERY</a></li>
-    <li role="presentation"><a href="/discussion">DISCUSSION</a></li>
+    <li {% if page.nav == 'home' %} class="active" {% endif %}role="presentation"><a href="/">HOME</a></li>
+    <li {% if page.nav == 'editions' %} class="active" {% endif %}role="presentation"><a href="/editions">EDITIONS</a></li>
+    <li {% if page.nav == 'pedagogy' %} class="active" {% endif %}role="presentation"><a href="/pedagogy">PEDAGOGY</a></li>
+    <li {% if page.nav == 'audio' %} class="active" {% endif %}role="presentation"><a href="/audio">AUDIO</a></li>
+    <li {% if page.nav == 'gallery' %} class="active" {% endif %} role="presentation"><a href="/gallery">GALLERY</a></li>
+    <li {% if page.nav == 'discussion' %} class="active" {% endif %}role="presentation"><a href="/discussion">DISCUSSION</a></li>
   </ul>
 </div>
 <div class="content-backdrop">
